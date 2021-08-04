@@ -28,3 +28,4 @@ else {
 }
 
 //enviado desde el celu
+//y esto desde la pc
