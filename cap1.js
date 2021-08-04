@@ -4,7 +4,7 @@ dinero3 = prompt('Cuanto dinero tienes?');
 
 if (dinero1 >= 0.6 && dinero1 <= 1) {
     alert("Compra el helado de agua")
-    alert("y tu vuelto es" - 0.6)
+    alert("y tu vuelto es" dinero1 - 0.6)
 }
 else if (dinero1 >= 1 && dinero1 <= 1.6) {
     alert("Compra el helado de crema")
