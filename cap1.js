@@ -26,3 +26,5 @@ else if (dinero1 >= 2.9) {
 else {
     alert("No te alcanza para un helado")
 }
+
+//enviado desde el celu
