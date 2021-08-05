@@ -1,6 +1,6 @@
 dinero1 = prompt('Cuanto dinero tienes?');
-dinero2 = prompt('Cuanto dinero tienes?');
-dinero3 = prompt('Cuanto dinero tienes?');
+//dinero2 = prompt('Cuanto dinero tienes?');
+//dinero3 = prompt('Cuanto dinero tienes?');
 
 if (dinero1 >= 0.6 && dinero1 <= 1) {
     alert("Compra el helado de agua")
